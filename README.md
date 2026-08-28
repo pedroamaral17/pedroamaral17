@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi, I'm Pedro Amaral, a Systems Development student at ETEC Rio Grande da Serra, in Brazil. I have a strong interest in Python and cybersecurity, and I'm currently taking additional courses outside of school to deepen my skills in both areas. I'm also working on my English — currently around B1 level — and preparing for an official Oxford certification exam. I'm actively building new projects to apply what I'm learning, so expect more to show up here soon.
 
 
